@@ -36,8 +36,8 @@ This GitHub profile is where I'll share my learning progress, experiments, and p
 Always open to learning, sharing ideas, and collaborating with others.
 
 
-# 💫 About Me:
-I'm Lokesh C, a first-year B.E. Computer Science and Engineering student at RMK Engineering College. I enjoy learning programming and understanding how technology works. I have basic knowledge of Python, C++, SQL, and database concepts. Currently, I'm learning C programming, HTML, CSS, and JavaScript as part of my engineering journey. I believe in understanding concepts rather than memorizing them, and I want to improve my problem-solving skills by practicing and building practical projects. My goal is to develop a strong foundation in Computer Science and become a skilled software developer.
+<--# 💫 About Me:
+I'm Lokesh C, a first-year B.E. Computer Science and Engineering student at RMK Engineering College. I enjoy learning programming and understanding how technology works. I have basic knowledge of Python, C++, SQL, and database concepts. Currently, I'm learning C programming, HTML, CSS, and JavaScript as part of my engineering journey. I believe in understanding concepts rather than memorizing them, and I want to improve my problem-solving skills by practicing and building practical projects. My goal is to develop a strong foundation in Computer Science and become a skilled software developer.-->
 
 
 ## 🌐 Socials:
